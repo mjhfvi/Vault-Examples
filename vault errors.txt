@@ -1,0 +1,4 @@
+# fix error : Error listing enabled authentications: Get "https://127.0.0.1:8200/v1/sys/auth": dial tcp 127.0.0.1:8200: connect: connection refused
+
+
+export VAULT_ADDR='http://192.168.50.81:8200'
